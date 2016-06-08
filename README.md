@@ -4,8 +4,7 @@ Repository to share and compare gene panels.
 
 ## Format ##
 
-Each panel will be in a csv format like
-```#hgncid```
+Each panel will be in a csv format with hgnc id in the first column.
 
 We plan to add more information like references for each gene etc.
 
